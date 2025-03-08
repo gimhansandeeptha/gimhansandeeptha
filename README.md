@@ -41,15 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimhansandeeptha&show_icons=true&locale=en" alt="gimhansandeeptha" /></p>
 
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
-<div align="center">
-  ![Snake animation](https://github.com/gimhansandeeptha/gimhansandeeptha/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/gimhansandeeptha/gimhansandeeptha/blob/output/github-contribution-grid-snake.svg)
 
