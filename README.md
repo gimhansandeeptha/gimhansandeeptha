@@ -1,9 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/gimhansandeeptha/gimhansandeeptha/main/imgs/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 
 <h1 align="center">Hi 👋, I'm Gimhan Sandeeptha</h1>
-<h3 align="center">I am an AI and ML enthusiast in Sri Lanka</h3>
-
-<h1 align="center">Hi 👋, I'm Gimhan Sandeeptha</h1>
 <h3 align="center">I am AI and ML enthusiast in Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gimhansandeeptha&label=Profile%20views&color=0e75b6&style=flat" alt="gimhansandeeptha" /> </p>
